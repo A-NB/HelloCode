@@ -1,0 +1,14 @@
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+I:\000 Geek Brains\Знакомство с ЯП\01_CSharp\Examples\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll
