@@ -50,7 +50,7 @@ void PrintArray(int[] array)
     System.Console.WriteLine();
 }
 
-void SelectionSort(int[] array)
+void SelectionSortMinToMax(int[] array)
 {
     for (int i = 0; i < array.Length - 1; i++)
     {
@@ -67,7 +67,29 @@ void SelectionSort(int[] array)
     }
 }
 
+void SelectionSortMaxToMin(int[] array)
+{
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        int maxPosition = i;
+
+        for (int j = i + 1; j < array.Length; j++)
+        {
+            if(array[j] > array[maxPosition]) maxPosition = j;
+        }
+
+        int temporary = array[i];
+        array[i] = array[maxPosition];
+        array[maxPosition] = temporary;
+    }
+}
+
 PrintArray(arr);
-SelectionSort(arr);
+
+SelectionSortMinToMax(arr);
+
+PrintArray(arr);
+
+SelectionSortMaxToMin(arr);
 
 PrintArray(arr);
